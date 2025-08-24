@@ -62,5 +62,5 @@ Marketing Optimization:the hepl is to increse the market and increse his income 
 
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. -
+Show what the dashboard looks like. -https://github.com/shagunagg-09/shopify-dashboard/blob/main/snapshot%20of%20the%20dashboard.png
 Example: 
